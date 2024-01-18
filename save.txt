@@ -1,0 +1,7 @@
+    <header>
+      <center>
+        <button className="message-button">
+          <FontAwesomeIcon icon={faEnvelope} style={{ fontSize: '2.5em' }} />
+        </button>
+      </center>
+    </header>
